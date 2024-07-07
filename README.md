@@ -2,7 +2,7 @@ Welcome to the "Maze Generator and Solver" project.
 The goal of this python project was to create a maze and solve it using the following search algorithms:
 1- DFS
 2- BFS
-2- A*
+3- A*
 The prim's algorithm was successfully used to generate a maze, and the previously mentioned algorithms were utilized to solve this maze.
 Also, our team made sure that the user will have the best experience when running the program as we implemented a clear GUI code as part of the program.
 
